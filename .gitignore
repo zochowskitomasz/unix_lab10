@@ -1,1 +1,7 @@
 .dvcignore
+data/**
+
+!data/**/
+!data/**/*.dvc
+
+*.cache

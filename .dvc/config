@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://zochowskit@ssh.mini.pw.edu.pl:/
+    user = zochowskit
